@@ -57,6 +57,30 @@ const config = {
         },
       }),
     ],
+    [
+      '@docusaurus/preset-classic',
+      {
+        docs: {
+          // ... Twoje istniejące opcje (np. sidebarPath, editUrl itp.)
+          
+          // DODAJ LUB ZMIEŃ TE LINIE:
+          lastVersion: '2606', // Wersja 2606 będzie domyślnie wyświetlana
+          
+          versions: {
+            '2606': {
+              label: '2606',
+              path: '2606', // Dostępne pod /docs/2606/ lub /docs/
+              banner: 'none', // Brak baneru dla stabilnej wersji
+            },
+            current: {
+              label: '2607/1',
+              path: 'next', // Dostępne pod /docs/next/
+              banner: 'unreleased', // Wyświetla baner "This is unreleased documentation"
+            },
+          },
+        },
+      },
+    ],
   ],
 
   themeConfig:
@@ -74,6 +98,12 @@ const config = {
           src: 'img/logo-plvacc.svg',
         },
         items: [
+          {
+          type: 'docsVersionDropdown',
+          position: 'left', // lub 'right'
+          dropdownItemsAfter: [{to: '/versions', label: 'Wszystkie wersje'}],
+          dropdownActiveClassDisabled: true,
+        },
         ],
       },
       footer: {
