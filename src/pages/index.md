@@ -13,3 +13,8 @@ This document constitutes the updated version of all local procedures applicable
 **IMPORTANT:** The materials contained herein are intended solely for use within the VATSIM simulation environment. **NOT FOR OPERATIONAL USE**
 
 :::
+
+## Wybierz wersję
+
+- [AIRAC 2606](/docs/2606)
+- [AIRAC 2607/1](/docs/next)
