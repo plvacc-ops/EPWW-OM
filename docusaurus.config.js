@@ -50,20 +50,7 @@ const config = {
       ({
         docs: {
           routeBasePath: '/',
-        },
-        blog: false,
-        theme: {
-          customCss: './src/css/custom.css',
-        },
-      }),
-    ],
-    [
-      '@docusaurus/preset-classic',
-      {
-        docs: {
-          // ... Twoje istniejące opcje (np. sidebarPath, editUrl itp.)
-          
-          // DODAJ LUB ZMIEŃ TE LINIE:
+                    // DODAJ LUB ZMIEŃ TE LINIE:
           lastVersion: '2606', // Wersja 2606 będzie domyślnie wyświetlana
           
           versions: {
@@ -79,7 +66,11 @@ const config = {
             },
           },
         },
-      },
+        blog: false,
+        theme: {
+          customCss: './src/css/custom.css',
+        },
+      }),
     ],
   ],
 
