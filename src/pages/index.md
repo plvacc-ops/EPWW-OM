@@ -14,7 +14,7 @@ This document constitutes the updated version of all local procedures applicable
 
 :::
 
-## Wybierz wersję
+## Select version
 
-- [AIRAC 2606](/docs/2606)
-- [AIRAC 2607/1](/docs/next)
+- [AIRAC 2606/1](/docs/2606)
+- [AIRAC 2607/1 - next](/docs/next)
