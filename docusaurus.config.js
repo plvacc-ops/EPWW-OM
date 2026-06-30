@@ -49,7 +49,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '/',
+          routeBasePath: 'docs',
                     // DODAJ LUB ZMIEŃ TE LINIE:
           lastVersion: '2606', // Wersja 2606 będzie domyślnie wyświetlana
           
