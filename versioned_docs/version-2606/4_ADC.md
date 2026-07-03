@@ -80,15 +80,15 @@ Separation of departing aircraft:
 - based on time:
   - 5 minutes - between departing aircraft on the same track, if the following aircraft will be crossing the level of the preceding aircraft,
   
-![5 minutes departure separation](/assets/ADC_dep_sep_time1.png)
+![5 minutes departure separation](/assets/ADC_dep_sep_time1.jpg)
 
   - 2 minutes - between departing aircraft on the same track, when the preceding aircraft is at least 40 kts faster,
 
-![2 minutes departure separation](/assets/ADC_dep_sep_time2.png)
+![2 minutes departure separation](/assets/ADC_dep_sep_time2.jpg)
 
   - 1 minute - between departing aircraft, when the departure tracks differ by no less than 45°,
 
-![1 minute departure separation](/assets/ADC_dep_sep_time3.png)
+![1 minute departure separation](/assets/ADC_dep_sep_time3.jpg)
 
 - based on visual observation (VFR)
   - aircraft has started a turn or passed departure end of runway.
