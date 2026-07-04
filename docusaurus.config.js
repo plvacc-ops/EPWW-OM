@@ -60,7 +60,7 @@ const config = {
               banner: 'none', // Brak baneru dla stabilnej wersji
             },
             current: {
-              label: '2607/1',
+              label: 'Upcoming release',
               path: 'next', // Dostępne pod /docs/next/
               banner: 'unreleased', // Wyświetla baner "This is unreleased documentation"
             },
