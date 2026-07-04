@@ -53,7 +53,7 @@ Runway selection is performed according to the following Runway Selection Prefer
 |-|-|
 |0 - 10 kts |Runway selected regardless of wind direction|
 |10 - 20 kts |Runway selected closer to “against the wind” direction, unless other conditions determine otherwise*|
-|> 20 kts <br> > G25 kts </br>|Runway selected “against the wind” direction regardless of other weather conditions and preferred RWY**|
+|> 20 kts <br> > G25 kts <br />|Runway selected “against the wind” direction regardless of other weather conditions and preferred RWY**|
 
 \* at EPWA, two runways are selected for use in accordance with the preference system.
 
