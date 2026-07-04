@@ -70,7 +70,7 @@ Runway selection is performed according to the following Runway Selection Prefer
 
 Clearance for take-off may only be issued when no other aircraft is in front of the departing aircraft on the runway. Final positions that must be reached by arriving aircraft (A) or departing aircraft (B or C) before an arriving aircraft can be cleared to land of a runway in use or a departing aircraft can be cleared for take-off: 
 
-![Departure separation](/assets/ADC_dep_sep.png)
+![Departure separation](/assets/ADC_dep_sep.jpg)
 
 Separation of departing aircraft:
 - based on a surveillance system:
