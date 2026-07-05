@@ -26,7 +26,7 @@ slug: /acc
 
 **Sector ownership and topdown coverage**
 
-Detailed sectors ownerships and topdown coverage available at (https://plvacc.pl/acc-sectors), or in [appendix](/category/appendix-1-acc-operations-manual) to this manual.
+Detailed sectors ownerships and topdown coverage available at (https://plvacc.pl/acc-sectors), or in [appendix](./category/appendix-1-acc-operations-manual) to this manual.
 
 **CPDLC**
 
