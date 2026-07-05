@@ -86,13 +86,13 @@ In order to reduce the number of coordinations between APP Warszawa and TWR Rado
 
 **CTA09 to APP Kraków**
 
-![CTA09](assets/ACC_CTA09.jpg)
+![CTA09](/assets/ACC_CTA09.jpg)
 
 In order to improve the quality of ATC services through the possibility of the provision of radar approach control service, a separate CTA09 area has been established within which the responsibility for the provision of ATS is delegated from TWR Rzeszów to APP Kraków. CTA 09 limits are coincident with those of RZESZÓW TMA.
 
 **CTR Heringsdorf to FIR EDWW**
 
-![Heringsdorf](assets/ACC_Heringsdorf.jpg)
+![Heringsdorf](/assets/ACC_Heringsdorf.jpg)
 
 In order to provide efficient ATS in CTR Heringsdorf, this sector (designated as TMA Szczecin Sector Heringsdorf) is delegated to TWR Heringsdorf.
 
