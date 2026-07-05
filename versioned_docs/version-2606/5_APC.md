@@ -136,7 +136,8 @@ Transfer from APP to ACC and between ACC sectors is equivalent with release for:
 - turns,
 - speed control.
   
-::: note
+:::note
+
 Given releases are only applicable within FIR Warszawa. Any other defined standard releases between units outside FIR Warszawa will be included in relevant Letter of Agreement.
 
 :::

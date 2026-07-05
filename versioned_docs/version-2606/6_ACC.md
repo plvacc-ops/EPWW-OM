@@ -62,7 +62,7 @@ ACC Warszawa issues a STAR clearance when one of the following conditions is met
 
 ## Airspace delagation
 
-**CTA 01 and CTA02 to APP Warszawa**
+**CTA01 and CTA02 to APP Warszawa**
 
 ![CTA01, CTA02](/assets/ACC_CTA01.jpg)
 
