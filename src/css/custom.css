@@ -39,3 +39,7 @@
   align-items: center;
   text-align: center;
 }
+
+.table thead th {
+  background-color: #c00202;
+}
