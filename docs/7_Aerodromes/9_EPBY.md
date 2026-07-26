@@ -17,8 +17,8 @@ Aerodrome category for firefighting:
 ## Runway characteristics
 
 |Designations|True bearing|Runway dimensions (m)|SWY dimensions (m)|Strip dimensions (m)|RESA (m)|
-|-|-|-|
-| | | |
+|-|-|-|-|-|-|
+| | | | | | |
 
 ### Declared distances
 
