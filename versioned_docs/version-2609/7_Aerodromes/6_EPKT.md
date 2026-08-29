@@ -19,7 +19,7 @@ Aerodrome category for firefighting:
 ## Runway characteristics
 
 |Designations|True bearing|Magnetic bearing|Runway dimensions (m)|SWY dimensions (m)|Strip dimensions (m)|RESA (m)|
-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|
 |08|090°|084°|3200 x 45|320 x 45|3320 x 300|240 x 120|
 |26|270°|264°|3200 x 45|NIL|3320 x 300|210 x 150|
 

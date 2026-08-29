@@ -17,7 +17,7 @@ Aerodrome category for firefighting: CAT 7 ICAO
 ## Runway characteristics
 
 |Designations|True bearing|Magnetic bearing|Runway dimensions (m)|SWY dimensions (m)|Strip dimensions (m)|RESA (m)|
-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|
 |08|082°|077°|2500 x 60|NIL|2900 x 300|240 x 120|
 |26|262°|257°|2500 x 60|NIL|2900 x 300|240 x 120|
 
