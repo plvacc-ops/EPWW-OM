@@ -27,8 +27,8 @@ procedural control within TMA Bydgoszcz.
 ## Sectors configuration
 
 Allowed sector configurations:
-- two-sector: APP, LOW;
-- single-sector: APP.
+- two-sector: AGD, LGD;
+- single-sector: AGD.
 
 ### Two-sector configuration: AGD, LGD
 

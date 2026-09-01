@@ -128,7 +128,7 @@ configuration.
 
 The missing AKKK/AKKT tasks are taken over by AKK controller.
 
-### Two-sector: Akk, AKKE
+### Two-sector: AKK, AKKE
 
 The tasks of AKKK/AKKT controllers are taken over according to runway in use.
 For RWY 25 and 26, AKKK/AKKT tasks are taken over by AKKE controller.
@@ -143,26 +143,31 @@ configuration.
 ### Single-sector configuration: AKK
 In a single-sector configuration, the responsibility for arrivals to airports: EPKK, EPKT and EPRZ
 is transferred to the controller AKK.
+
 In each of above stated configuration AKRZ position can be opened.
+
 Kraków Approach Sector Rzeszów [EPKK_RZ_APP; callsign “Kraków Approach”], marked as
 AKRZ, covers the CTA09 airspace and is responsible for providing radar service for traffic
 arriving and departing from Rzeszów Airport.
+
 If APP RZ is offline, its tasks are taken over by APP E controller.
+
 If APP E is offline, APP RZ tasks are taken over by APP.
-APP Kraków Standard Operating Procedures
-The controllers of APP, APP E, DIR KK, and DIR KT sectors are required to manage arriving air
-traffic in such a way that the final approach does not exceed 25 NM from the runway
-threshold.
-Whenever possible, considering the current traffic and meteorological situation, APP will
-manage and plan traffic to enable the application of the CDA technique.
-The standard initial climb after departure from SID EPKT and SID EPKK is set at 6000 ft AMSL
-and is communicated in the flight clearance by GND EPKT and DEL EPKK controllers.
-An aircraft may be vectored only within controlled airspace and above the MRVA in a given
-TMA sector, while avoiding prohibited and restricted areas.
 
 ## Standard Operating Procedures
 
+The controllers of APP, APP E, DIR KK, and DIR KT sectors are required to manage arriving air
+traffic in such a way that the final approach does not exceed **25 NM** from the runway
+threshold.
 
+Whenever possible, considering the current traffic and meteorological situation, APP will
+manage and plan traffic to enable the application of the CDA technique.
+
+The standard initial climb after departure from SID EPKT and SID EPKK is set at **6000 ft AMSL**
+and is communicated in the flight clearance by GND EPKT and DEL EPKK controllers.
+
+An aircraft may be vectored only within controlled airspace and above the MRVA in a given
+TMA sector, while avoiding prohibited and restricted areas.
 
 ## Coordination with other ATC units
 

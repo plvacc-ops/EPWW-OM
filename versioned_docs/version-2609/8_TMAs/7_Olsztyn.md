@@ -39,7 +39,7 @@ approval of the ACC Warszawa controller, can be temporarily delegated, or tasks 
 traffic control for individual aircraft may be delegated to ACC Warszawa.
 
 :::caution
-As ACC controller, you can not delegate any of TMA airspace. It is only allowed when TWR MAzury is online and grants permission/requests the ACC controller for this delegation.
+The delegation takes place onlywhen TWR Mazury is online and grants permission/requests the ACC controller for this delegation.
 :::
 
 In the delegated airspace, the ACC controller may use radar control.
