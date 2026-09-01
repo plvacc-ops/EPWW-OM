@@ -78,7 +78,7 @@ During periods of high air traffic intensity, an aircraft operating under VFR ma
 - point **INDIA** - Approach from point HOTEL or YANKEE. Perform holding on the north side of point INDIA.
 - point **UNIFORM** - Approach from points VICTOR or JULIETT. Perform holding without crossing the north side of the Vistula River.
 
-CTR Modlin is a **Class D** airspace.
+Aircraft performing traffic circuits, must not fly beyond the INDIA and UNIFORM holding points.
 
 At EPMO radar service is provided for airborne traffic. Traffic is controlled according to PANS-ATM 4444 Chapter 8.
 
