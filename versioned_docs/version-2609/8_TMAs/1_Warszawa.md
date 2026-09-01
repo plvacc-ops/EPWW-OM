@@ -82,7 +82,7 @@ The FWA controller is responsible for vectoring aircraft to the final approach a
 Allowed sector configurations:
 - four-sector: AWA, ANWA, ASWA, FWA;
 - three-sector: AWA, ANWA, ASWA;
-- three-sector: AW,A ANWA, FWA;
+- three-sector: AWA, ANWA, FWA;
 - two-sector: AWA, ANWA;
 - two-sector: AWA, FWA;
 - single-sector: AWA.
