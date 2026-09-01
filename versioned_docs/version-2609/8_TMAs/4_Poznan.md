@@ -22,7 +22,7 @@ control within TMA Zielona Góra.
 ## Positions
 
 |Position|Frequency|Callsign|ID|
-|-|-|-|-|-|
+|-|-|-|-|
 |EPPO_N_APP|128.925 MHz|Poznań Approach|ANPO|
 |EPPO_S_APP|123.040 MHz|Poznań Approach|ASPO|
 
