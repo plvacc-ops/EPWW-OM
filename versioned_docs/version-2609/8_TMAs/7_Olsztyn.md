@@ -13,7 +13,7 @@ FL115, it is Class C.
 
 TWR Mazury provides procedural approach control to Olsztyn Airport.
 
-![TMAOL](assets/TMA_Olsztyn_sectors.jpg)
+![TMAOL](/assets/TMA_Olsztyn_sectors.jpg)
 
 ## Standard Operating Procedures
 

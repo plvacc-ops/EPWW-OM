@@ -12,7 +12,7 @@ The TMA Szczecin airspace is controlled airspace of Class C. The TWR Szczecin pr
 procedural approach control for flights arriving at Szczecin airport. The TMA Szczecin Heringsdorf sector is controlled airspace of Class D (from 1000 ft to FL95), and above FL95 to FL135,
 the airspace is of Class C.
 
-![TMASC](assets/TMA_Szczecin_sectors.jpg)
+![TMASC](/assets/TMA_Szczecin_sectors.jpg)
 
 ## Standard Operating Procedures
 

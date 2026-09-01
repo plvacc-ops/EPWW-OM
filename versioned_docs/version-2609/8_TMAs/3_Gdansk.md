@@ -54,7 +54,7 @@ The furthest points to which the AGD Gdańsk controller can allow direct flight 
 |11|OGDAV, KOSEX, RATOR, GD841, GD931|
 |29|OGDAV, KOSEX, RATOR, GD933, NIKMI|
 
-![GDTMA](assets/TMA_Gdansk_sectors.jpg)
+![GDTMA](/assets/TMA_Gdansk_sectors.jpg)
 
 ### Single-sector configuration: AGD
 

@@ -50,7 +50,7 @@ The controller should pay special attention to any aircraft movements at EPWR (W
 Strachowice Airport), as the crew may not be aware that the airport is under the control of
 the ANPO controller.
 
-![POTMA](assets/TMA_Poznan_sectors.jpg)
+![POTMA](/assets/TMA_Poznan_sectors.jpg)
 
 
 ## Standard Operating Procedures

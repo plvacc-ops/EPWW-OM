@@ -11,7 +11,7 @@ slug: /lublin
 The TMA Lublin airspace is controlled airspace of Class D up to FL95, and from FL95 to FL135,
 it is classified as Class C. TWR Lublin provides procedural approach control for Lublin Airport.
 
-![TMALB](assets/TMA_Lublin_sectors.jpg)
+![TMALB](/assets/TMA_Lublin_sectors.jpg)
 
 ## Standard Operating Procedures
 

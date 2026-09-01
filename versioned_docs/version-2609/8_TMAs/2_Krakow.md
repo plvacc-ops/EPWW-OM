@@ -16,7 +16,7 @@ traffic control for aircraft arriving and departing from the following airports:
 TMA is divided into Upper and Lower sectors. UTMA Krakow is divided into three sectors:
 Sector A [FL95-FL245], Sector B [FL245-FL285] and Sector C [FL145-FL285].
 
-![KKTMA](assets/TMA_Krakow_sectors.jpg)
+![KKTMA](/assets/TMA_Krakow_sectors.jpg)
 
 Due to VFR traffic in the CTR of Kraków and Katowice at 2000 ft, the movement
 of aircraft in sectors 4 (MVA 2800 ft) and 6 (MVA 2900 ft) should occur no lower than 3000 ft
@@ -34,7 +34,7 @@ in the adjacent Class D airspace.
 |EPKK_KT_APP|135.405 MHz|Kraków Approach|AKKT|
 |EPKK_RZ_APP|133.030 MHz|Kraków Approach|AKRZ|
 
-![KKTMA ALL POS](assets/TMA_Krakow_positions.jpg)
+![KKTMA ALL POS](/assets/TMA_Krakow_positions.jpg)
 
 ## Sectors configuration
 

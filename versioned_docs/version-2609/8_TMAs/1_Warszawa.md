@@ -18,7 +18,7 @@ Additionally, it provides radar control:
 
 Within its VATSIM Area of Responsibility, procedural control is provided in TMA Łódź and TMA Radom, as well as Aerodrome Flight Information Service (AFIS) in ATZ Babice. MCTR/MTMA Mińsk Mazowiecki and MCTR/MTMA Łask are not simulated in the VATSIM network and remain Class G airspace, where only traffic information is provided, and no military air traffic control is performed.
 
-![TMA CTA](assets/TMA_Warszawa_CTA.jpg)
+![TMA CTA](/assets/TMA_Warszawa_CTA.jpg)
 
 ## Positions
 
@@ -36,7 +36,7 @@ Within its VATSIM Area of Responsibility, procedural control is provided in TMA 
 Vertical boundaries: lower boundary of TMA - FL125
 Horizontal boundaries:
 
-![AWA horizontal](assets/TMA_Warszawa_APP.jpg)
+![AWA horizontal](/assets/TMA_Warszawa_APP.jpg)
 
 Scope of resposibility:
 
@@ -55,7 +55,7 @@ The AWA controller provides air traffic control service in the CTR Okęcie [EPWA
 Vertical boundaries: lower boundary of TMA - FL225 (excluding AWA and FWA sectors)
 Horizontal boundaries:
 
-![ANWA_ASWA horizontal](assets/TMA_Warszawa_APP_N_S.jpg)
+![ANWA_ASWA horizontal](/assets/TMA_Warszawa_APP_N_S.jpg)
 
 Scope of responsibility:
 
@@ -68,7 +68,7 @@ The ASWA controller is responsible for air traffic control of arrivals and depar
 Vertical boundaries: lower boundary of TMA - FL125
 Horizontal boundaries:
 
-![FWA horizontal](assets/TMA_Warszawa_DIR.jpg)
+![FWA horizontal](/assets/TMA_Warszawa_DIR.jpg)
 
 Scope of responsibility:
 
@@ -93,19 +93,19 @@ Clearance for further climb may be issued by the AWA controller if the aircraft 
 #### four sector: AWA, ANWA, ASWA, FWA;
 - arrivals RWY 11
 
-    ![4SEC 11](assets/TMA_Warszawa_config11.jpg)
+    ![4SEC 11](/assets/TMA_Warszawa_config11.jpg)
 
 - arrivals RWY 15
 
-    ![4SEC 15](assets/TMA_Warszawa_config15.jpg)
+    ![4SEC 15](/assets/TMA_Warszawa_config15.jpg)
 
 - arrivals RWY 29
 
-    ![4SEC 15](assets/TMA_Warszawa_config29.jpg)
+    ![4SEC 15](/assets/TMA_Warszawa_config29.jpg)
 
 - arrivals RWY 33
 
-    ![4SEC 15](assets/TMA_Warszawa_config33.jpg)
+    ![4SEC 15](/assets/TMA_Warszawa_config33.jpg)
 
 The ANWA and ASWA controller descends arriving aircraft to EPWA to FL130. The transfer of control of an aircraft from the ANWA/ASWA controller to the AWA controller includes release for further descent.
 
@@ -130,14 +130,14 @@ Conditions for the transfer of control between AWA and FWA controllers are estab
 
 #### three-sector: AWA, ANWA, FWA:
 
-![3AWA NWA FWA](assets/TMA_Warszawa_config_APP_N_DIR.jpg)
+![3AWA NWA FWA](/assets/TMA_Warszawa_config_APP_N_DIR.jpg)
 
 The responsibilities of the ASWA position are taken over by the ANWA position.
 This sectorization is most recommended with 3 controllers available.
 
 #### two-sector: AWA, ANWA:
 
-![2AWA NWA](assets/TMA_Warszawa_config_APP_N.jpg)
+![2AWA NWA](/assets/TMA_Warszawa_config_APP_N.jpg)
 
 This configuration is recommended during high traffic at EPMO.
 
@@ -147,7 +147,7 @@ The responsibilities of the FWA position are taken over by the AWA position.
 
 #### two-sector: AWA, FWA:
 
-![2 AWA FWA](assets/TMA_Warszawa_config_APP_DIR.jpg)
+![2 AWA FWA](/assets/TMA_Warszawa_config_APP_DIR.jpg)
 
 This configuration is recommended during high traffic at EPWA.
 
@@ -155,7 +155,7 @@ The responsibilities of the ASWA position and ANWA position are taken over by th
 
 #### single-sector: AWA
 
-![1AWA](assets/TMA_Warszawa_config_APP.jpg)
+![1AWA](/assets/TMA_Warszawa_config_APP.jpg)
 
 All responsibilities are taken over by the AWA position.
 
