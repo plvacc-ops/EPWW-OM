@@ -41,7 +41,7 @@ approval of the ACC Warszawa controller, can be temporarily delegated, or tasks 
 traffic control for individual aircraft may be delegated to ACC Warszawa.
 
 :::caution
-The delegation takes place onlywhen TWR Szczecin is online and grants permission/requests the ACC controller for this delegation.
+The delegation takes place only when TWR Szczecin is online and grants permission/requests the ACC controller for this delegation.
 :::
 
 In the delegated airspace, the ACC controller may use radar control.

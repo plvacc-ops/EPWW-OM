@@ -39,7 +39,7 @@ from the ACC Warszawa controller, can be temporarily delegated or specific air t
 tasks for individual aircraft can be delegated to ACC Warszawa.
 
 :::caution
-The delegation takes place onlywhen TWR Lublin is online and grants permission/requests the ACC controller for this delegation.
+The delegation takes place only when TWR Lublin is online and grants permission/requests the ACC controller for this delegation.
 :::
 
 In the delegated airspace, the ACC Warszawa controller can apply radar control of air traffic.
