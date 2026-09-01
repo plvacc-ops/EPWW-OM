@@ -57,8 +57,11 @@ identified aircraft in order to ensure:
 - monitoring instrument approach procedures and visual approaches.
 
 **Separation in surveillance control**
+
 Horizontal separation: 5 NM
+
 Vertical separation:
+
 - below FL280: 1000 ft
 - above FL280: 2000 ft*
   
