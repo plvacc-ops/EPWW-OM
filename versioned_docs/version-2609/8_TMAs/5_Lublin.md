@@ -11,7 +11,7 @@ slug: /lublin
 The TMA Lublin airspace is controlled airspace of Class D up to FL95, and from FL95 to FL135,
 it is classified as Class C. TWR Lublin provides procedural approach control for Lublin Airport.
 
-![TMALB](assets/TMA_Lublin_sectors.jpg)
+![TMALB](/assets/TMA_Lublin_sectors.jpg)
 
 ## Standard Operating Procedures
 
@@ -39,7 +39,7 @@ from the ACC Warszawa controller, can be temporarily delegated or specific air t
 tasks for individual aircraft can be delegated to ACC Warszawa.
 
 :::caution
-As ACC controller, you can not delegate any of TMA airspace. It is only allowed when TWR Lublin is online and grants permission/requests the ACC controller for this delegation.
+The delegation takes place only when TWR Lublin is online and grants permission/requests the ACC controller for this delegation.
 :::
 
 In the delegated airspace, the ACC Warszawa controller can apply radar control of air traffic.

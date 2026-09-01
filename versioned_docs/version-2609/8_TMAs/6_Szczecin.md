@@ -12,7 +12,7 @@ The TMA Szczecin airspace is controlled airspace of Class C. The TWR Szczecin pr
 procedural approach control for flights arriving at Szczecin airport. The TMA Szczecin Heringsdorf sector is controlled airspace of Class D (from 1000 ft to FL95), and above FL95 to FL135,
 the airspace is of Class C.
 
-![TMASC](assets/TMA_Szczecin_sectors.jpg)
+![TMASC](/assets/TMA_Szczecin_sectors.jpg)
 
 ## Standard Operating Procedures
 
@@ -41,7 +41,7 @@ approval of the ACC Warszawa controller, can be temporarily delegated, or tasks 
 traffic control for individual aircraft may be delegated to ACC Warszawa.
 
 :::caution
-As ACC controller, you can not delegate any of TMA airspace. It is only allowed when TWR Szczecin is online and grants permission/requests the ACC controller for this delegation.
+The delegation takes place only when TWR Szczecin is online and grants permission/requests the ACC controller for this delegation.
 :::
 
 In the delegated airspace, the ACC controller may use radar control.

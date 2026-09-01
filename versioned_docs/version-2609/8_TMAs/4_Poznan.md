@@ -22,7 +22,7 @@ control within TMA Zielona Góra.
 ## Positions
 
 |Position|Frequency|Callsign|ID|
-|-|-|-|-|-
+|-|-|-|-|
 |EPPO_N_APP|128.925 MHz|Poznań Approach|ANPO|
 |EPPO_S_APP|123.040 MHz|Poznań Approach|ASPO|
 
@@ -50,7 +50,7 @@ The controller should pay special attention to any aircraft movements at EPWR (W
 Strachowice Airport), as the crew may not be aware that the airport is under the control of
 the ANPO controller.
 
-![POTMA](assets/TMA_Poznan_sectors.jpg)
+![POTMA](/assets/TMA_Poznan_sectors.jpg)
 
 
 ## Standard Operating Procedures

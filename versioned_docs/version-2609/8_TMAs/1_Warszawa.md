@@ -18,7 +18,7 @@ Additionally, it provides radar control:
 
 Within its VATSIM Area of Responsibility, procedural control is provided in TMA Łódź and TMA Radom, as well as Aerodrome Flight Information Service (AFIS) in ATZ Babice. MCTR/MTMA Mińsk Mazowiecki and MCTR/MTMA Łask are not simulated in the VATSIM network and remain Class G airspace, where only traffic information is provided, and no military air traffic control is performed.
 
-![TMA CTA](assets/TMA_Warszawa_CTA.jpg)
+![TMA CTA](/assets/TMA_Warszawa_CTA.jpg)
 
 ## Positions
 
@@ -34,15 +34,16 @@ Within its VATSIM Area of Responsibility, procedural control is provided in TMA 
 ### AWA Sector
 
 Vertical boundaries: lower boundary of TMA - FL125
+
 Horizontal boundaries:
 
-![AWA horizontal](assets/TMA_Warszawa_APP.jpg)
+![AWA horizontal](/assets/TMA_Warszawa_APP.jpg)
 
 Scope of resposibility:
 
 The AWA controller is responsible for the initial control of departures and their identification in accordance with surveillance identification procedures.
 
-TWR controller transfers control and communication tAWA controller immediately after departure.
+TWR controller transfers control and communication AWA controller immediately after departure.
 
 The AWA controller manages the initial climb of departing aircraft up to FL120. The transfer of control of a climbing aircraft to the mentioned levels includes release for further climb.
 
@@ -53,9 +54,10 @@ The AWA controller provides air traffic control service in the CTR Okęcie [EPWA
 ### ANWA and ASWA Sectors
 
 Vertical boundaries: lower boundary of TMA - FL225 (excluding AWA and FWA sectors)
+
 Horizontal boundaries:
 
-![ANWA_ASWA horizontal](assets/TMA_Warszawa_APP_N_S.jpg)
+![ANWA_ASWA horizontal](/assets/TMA_Warszawa_APP_N_S.jpg)
 
 Scope of responsibility:
 
@@ -66,9 +68,10 @@ The ASWA controller is responsible for air traffic control of arrivals and depar
 ### FWA Sectors
 
 Vertical boundaries: lower boundary of TMA - FL125
+
 Horizontal boundaries:
 
-![FWA horizontal](assets/TMA_Warszawa_DIR.jpg)
+![FWA horizontal](/assets/TMA_Warszawa_DIR.jpg)
 
 Scope of responsibility:
 
@@ -78,9 +81,9 @@ The FWA controller is responsible for vectoring aircraft to the final approach a
 
 Allowed sector configurations:
 - four-sector: AWA, ANWA, ASWA, FWA;
-- three-sector: AWA, ANWA, ASWA,;
-- three-sector: AW,A ANWA, FWA;
-- two-sector: AWA, ANWA,;
+- three-sector: AWA, ANWA, ASWA;
+- three-sector: AWA, ANWA, FWA;
+- two-sector: AWA, ANWA;
 - two-sector: AWA, FWA;
 - single-sector: AWA.
 
@@ -93,25 +96,25 @@ Clearance for further climb may be issued by the AWA controller if the aircraft 
 #### four sector: AWA, ANWA, ASWA, FWA;
 - arrivals RWY 11
 
-    ![4SEC 11](assets/TMA_Warszawa_config11.jpg)
+    ![4SEC 11](/assets/TMA_Warszawa_config11.jpg)
 
 - arrivals RWY 15
 
-    ![4SEC 15](assets/TMA_Warszawa_config15.jpg)
+    ![4SEC 15](/assets/TMA_Warszawa_config15.jpg)
 
 - arrivals RWY 29
 
-    ![4SEC 15](assets/TMA_Warszawa_config29.jpg)
+    ![4SEC 15](/assets/TMA_Warszawa_config29.jpg)
 
 - arrivals RWY 33
 
-    ![4SEC 15](assets/TMA_Warszawa_config33.jpg)
+    ![4SEC 15](/assets/TMA_Warszawa_config33.jpg)
 
 The ANWA and ASWA controller descends arriving aircraft to EPWA to FL130. The transfer of control of an aircraft from the ANWA/ASWA controller to the AWA controller includes release for further descent.
 
 AWA controller may shorten the arrival routes of aircraft using RNAV waypoints. The maximum shortcuts - waypoints to which controllers can allow direct flight without coordination with the next controller are:
 
-|ARR RWY|ASWA -> ANWA|ANWA -> AWA|AWA - > FWA|
+|ARR RWY|ASWA -> ANWA|ANWA -> AWA|AWA -> FWA|
 |-|-|-|-|
 |11|ENZAM, FOLFA|KEWLU|NIMIS, SOSIN|
 |15|ENZAM, FOLFA|KEWLU|REBSO, KINFU|
@@ -130,14 +133,14 @@ Conditions for the transfer of control between AWA and FWA controllers are estab
 
 #### three-sector: AWA, ANWA, FWA:
 
-![3AWA NWA FWA](assets/TMA_Warszawa_config_APP_N_DIR.jpg)
+![3AWA NWA FWA](/assets/TMA_Warszawa_config_APP_N_DIR.jpg)
 
 The responsibilities of the ASWA position are taken over by the ANWA position.
 This sectorization is most recommended with 3 controllers available.
 
 #### two-sector: AWA, ANWA:
 
-![2AWA NWA](assets/TMA_Warszawa_config_APP_N.jpg)
+![2AWA NWA](/assets/TMA_Warszawa_config_APP_N.jpg)
 
 This configuration is recommended during high traffic at EPMO.
 
@@ -147,7 +150,7 @@ The responsibilities of the FWA position are taken over by the AWA position.
 
 #### two-sector: AWA, FWA:
 
-![2 AWA FWA](assets/TMA_Warszawa_config_APP_DIR.jpg)
+![2 AWA FWA](/assets/TMA_Warszawa_config_APP_DIR.jpg)
 
 This configuration is recommended during high traffic at EPWA.
 
@@ -155,7 +158,7 @@ The responsibilities of the ASWA position and ANWA position are taken over by th
 
 #### single-sector: AWA
 
-![1AWA](assets/TMA_Warszawa_config_APP.jpg)
+![1AWA](/assets/TMA_Warszawa_config_APP.jpg)
 
 All responsibilities are taken over by the AWA position.
 
@@ -179,7 +182,7 @@ When EPWA SINGLE RWY is in use, below sectors capacity are estabilished for all 
 
 ## Standard Operating Procedures
 
-The controllers of the APP S, APP N, APP, and DIR sectors are responsible for managing the flow of arriving aircraft in such a way that the final approach does not extend beyond 25 NM from the runway threshold. As a standard, the final approach should be approximately 11 NM from the runway threshold.
+The controllers of the ASWA, ANWA, AWA, and FWA sectors are responsible for managing the flow of arriving aircraft in such a way that the final approach does not extend beyond 25 NM from the runway threshold. As a standard, the final approach should be approximately 11 NM from the runway threshold.
 
 Whenever possible, considering the current traffic and weather conditions, APP will manage and plan traffic to allow for the execution of the Continuous Descent Approach (CDA) technique.
 
@@ -219,8 +222,8 @@ The APP/DIR controller is responsible for maintaining speed and separation betwe
 ### TWR Modlin
 
 APP Warszawa provides Modlin TWR with information about the current sector configuration and the applicable frequency after takeoff:
-- single-sector configuration - to the APP sector, frequency 128.805 MHz,
-- other configurations - to the APP N sector, frequency 125.055 MHz.
+- single-sector configuration - to the AWA sector, frequency 128.805 MHz,
+- other configurations - to the ANWA sector, frequency 125.055 MHz.
 
 Before granting takeoff clearance, Modlin TWR will coordinate with APP Warszawa for “departure release”. If, due to traffic conditions, the departure procedure cannot be executed, APP will provide a modified clearance, which TWR will pass on to the aircraft crew.
 
