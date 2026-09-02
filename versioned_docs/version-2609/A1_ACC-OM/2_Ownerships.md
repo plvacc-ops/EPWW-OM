@@ -16,7 +16,7 @@ slug: /ownerships
 |DBF+G LM   (EPWW_DBF_CTR)|133.180|TC+J LM   (EPWW_TCJ_CTR)|134.875|
 |DT LM   (EPWW_DT_CTR)|128.765|EFIR   (EPWW_E_CTR)|120.950|
 |DTC LMH   (EPWW_DTC_CTR)|125.340|NFIR   (EPWW_N_CTR)|130.675|
-|F L   (EPWW_F_CTR)|124.275|SFIR (TCJRE)   (EPWW_S_CTR)|123.625|
+|F L   (EPWW_F_CTR)|124.275|SFIR   (EPWW_S_CTR)|123.625|
 |FG LM   (EPWW_FG_CTR)|124.925|||
 
 Each position AoR is briefly described below and more detabiled ownership can be found [here](https://plvacc.pl/acc-sectors/)

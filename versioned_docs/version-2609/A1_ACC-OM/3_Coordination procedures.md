@@ -561,7 +561,7 @@ T/TRN – Turn, D/DES – Descent, C/CLB – Climb
 ### GOTIX
 
 | UKLL → EPWW |  |
-| --- | --- | --- | --- |
+| --- | --- |
 | ↑ UKLL | ↑ 160 |
 | ↓ EPLB | ↓ 300 |
 | ↓ EPRA | ↓ 300 |
