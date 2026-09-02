@@ -9,8 +9,8 @@ slug: /warszawa
 ## Airspace characteristics
 
 The TMA Warszawa is Class C airspace, extending up to FL225 (with permanently delegated CTA, the upper limit is raised to FL245). TMA Warszawa provides radar control for arriving and departing aircraft at the following airports:
-- Warszawa/Modlin [EPMO],
-- Warszawa/Chopin [EPWA].
+- Warszawa/Chopin [EPWA],
+- Warszawa/Modlin [EPMO].
 
 Additionally, it provides radar control:
 - down to 6000 ft in TMA Łódź (within CTA03),
@@ -87,7 +87,7 @@ Allowed sector configurations:
 - two-sector: AWA, FWA;
 - single-sector: AWA.
 
-The sector where vectoring to the final approach is conducted is referred to as the parent sector. The parent sector determines the flow of the arrival queue to EPWA airport and issues instructions to other controllers (e.g., speed and altitude control) to ensure an efficient and safe arrival sequence in the final phase of the approach to landing. By default, the parent sector is the DIR sector. 
+The sector where vectoring to the final approach is conducted is referred to as the parent sector. The parent sector determines the flow of the arrival queue to EPWA airport and issues instructions to other controllers (e.g., speed and altitude control) to ensure an efficient and safe arrival sequence in the final phase of the approach to landing. By default, the parent sector is the FWA sector. 
 
 Clearance for further climb may be issued by the AWA controller if the aircraft is at least 2.5 NM from the horizontal boundaries of FWA (but no higher than the levels established within the APP-ACC level coordination). Further climb within the FWA sector boundaries may be issued only after prior clearance from the FWA controller.
 
@@ -136,13 +136,18 @@ Conditions for the transfer of control between AWA and FWA controllers are estab
 ![3AWA NWA FWA](/assets/TMA_Warszawa_config_APP_N_DIR.jpg)
 
 The responsibilities of the ASWA position are taken over by the ANWA position.
+
+:::tip
 This sectorization is most recommended with 3 controllers available.
+:::
 
 #### two-sector: AWA, ANWA:
 
 ![2AWA NWA](/assets/TMA_Warszawa_config_APP_N.jpg)
 
+:::tip
 This configuration is recommended during high traffic at EPMO.
+:::
 
 The responsibilities of the ASWA position are taken over by the ANWA position.
 
@@ -152,7 +157,9 @@ The responsibilities of the FWA position are taken over by the AWA position.
 
 ![2 AWA FWA](/assets/TMA_Warszawa_config_APP_DIR.jpg)
 
+:::tip
 This configuration is recommended during high traffic at EPWA.
+:::
 
 The responsibilities of the ASWA position and ANWA position are taken over by the AWA position.
 
@@ -219,17 +226,37 @@ The APP/DIR controller is responsible for maintaining speed and separation betwe
 
 ## Coordination with other ATC units
 
+### TWR Okęcie
+
+The appropriate controllers responsible for arrivals to EPWA remain in constant coordination with TWR Okęcie controller.
+
+TWR Okęcie controller designate active runways for the respective airports based on the runway selection methods outlined in the [Aerodrome Traffic Control Chapter of this instruction](./aerodrome).
+
+It is stipulated that a change of active runways should occur no earlier than 30 minutes after notifying the APP controller of the need for a change. The APP controller will then begin adjusting the arrival sequence for the new runway.
+
+Information regarding the runway in use must always be shared among all APP controllers.
+
+Departures from EPWA do not require an APP controller's clearance (“departure release”).
+
+At the request of the TWR controller, the appropriate APP controller provides information on the distance in miles or time in minutes to the threshold for arriving traffic, to improve runway efficiency.
+
 ### TWR Modlin
 
-APP Warszawa provides Modlin TWR with information about the current sector configuration and the applicable frequency after takeoff:
+APP Warszawa provides TWR Modlin with information about the current sector configuration and the applicable frequency after takeoff:
 - single-sector configuration - to the AWA sector, frequency 128.805 MHz,
 - other configurations - to the ANWA sector, frequency 125.055 MHz.
 
-Before granting takeoff clearance, Modlin TWR will coordinate with APP Warszawa for “departure release”. If, due to traffic conditions, the departure procedure cannot be executed, APP will provide a modified clearance, which TWR will pass on to the aircraft crew.
+TWR Modlin controller designate active runways for the respective airports based on the runway selection methods outlined in the [Aerodrome Traffic Control Chapter of this instruction](./aerodrome).
 
-In exceptional cases and after direct agreement between the APP Warszawa controllers and Modlin TWR controllers, landing on a different direction than the runway in use may be allowed.
+It is stipulated that a change of active runways should occur no earlier than 30 minutes after notifying the APP controller of the need for a change. The APP controller will then begin adjusting the arrival sequence for the new runway.
 
-APP Warszawa transfers control and communication of the aircraft to Modlin TWR at a distance of no less than 4 NM from the runway threshold. This transfer will only occur after the crew reports stabilization on the approach course or after reporting visual contact with the airport and declaring readiness for the visual approach.
+Information regarding the runway in use must always be shared among all APP controllers.
+
+Before granting takeoff clearance, TWR Modlin will coordinate with APP Warszawa for “departure release”. If, due to traffic conditions, the departure procedure cannot be executed, APP will provide a modified clearance, which TWR will pass on to the aircraft crew.
+
+In exceptional cases and after direct agreement between the APP Warszawa controllers and TWR Modlin controllers, landing on a different direction than the runway in use may be allowed.
+
+APP Warszawa transfers control and communication of the aircraft to TWR Modlin at a distance of no less than 4 NM from the runway threshold. This transfer will only occur after the crew reports stabilization on the approach course or after reporting visual contact with the airport and declaring readiness for the visual approach.
 
 ### TWR Łódź
 
@@ -254,10 +281,10 @@ Upon the transfer of control to TWR Radom, radar control is terminated.
 ### APP Kraków
 
 In cases where both APP Kraków and APP Warszawa controllers are logged in and there is no logged ACC Warszawa, the following routes are managed as part of the “bridge” procedure:
-- EPWA - EPKK,
-- EPWA - EPKT,
-- EPMO - EPKK,
-- EPMO - EPKT.
+- EPWA <-> EPKK,
+- EPWA <-> EPKT,
+- EPMO <-> EPKK,
+- EPMO <-> EPKT.
 
 Aircraft remain in communication with the selected APP controller and are then directly handed over to the next APP controller halfway between the sectors of the TMA.
 
