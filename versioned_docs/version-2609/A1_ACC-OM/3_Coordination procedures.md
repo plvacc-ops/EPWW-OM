@@ -85,18 +85,18 @@ T/TRN – Turn, D/DES – Descent, C/CLB – Climb
 
 ### GILAS
 
-| EPWW → EDWW |  | EDWW → EPWW |  |
-| --- | --- | --- | --- |
-|  |  | ↓ EPMO | ↓ 350 |
-|  |  | ↓ EPLL | ↓ 350 |
-|  |  | ↓ EPWR | ↓ 330 |
-|  |  | ↓ EPBY | ↓ 330 |
+| EDWW → EPWW |  |
+| --- | --- |
+| ↓ EPMO | ↓ 350 |
+| ↓ EPLL | ↓ 350 |
+| ↓ EPWR | ↓ 330 |
+| ↓ EPBY | ↓ 330 |
 
 ### XIGRI
 
-| EPWW → EDWW |  | EDWW → EPWW |  |
-| --- | --- | --- | --- |
-| ↑ EPPO | ↑ 300 |  |  |
+| EPWW → EDWW |  |
+| --- | --- |
+| ↑ EPPO | ↑ 300 |
 
 ### SUBIX
 
@@ -119,12 +119,12 @@ T/TRN – Turn, D/DES – Descent, C/CLB – Climb
 
 ### ARSAP
 
-| EPWW → EDWW |  | EDWW → EPWW |  |
-| --- | --- | --- | --- |
-|  |  | ↓ EPPO | ↓ 210 |
-|  |  | ↓ EPZG | ↓ 210 |
-|  |  | ↑ EDAZ | ↑ 230-270 |
-|  |  | ↑ EDDB | ↑ 170-230 |
+| EDWW → EPWW |  |
+| --- | --- |
+| ↓ EPPO | ↓ 210 |
+| ↓ EPZG | ↓ 210 |
+| ↑ EDAZ | ↑ 230-270 |
+| ↑ EDDB | ↑ 170-230 |
 
 ### GOVEN
 
@@ -156,34 +156,34 @@ T/TRN – Turn, D/DES – Descent, C/CLB – Climb
 
 ### POZUM
 
-| EPWW → EDMM |  | EDMM → EPWW |  |
-| --- | --- | --- | --- |
-|  |  | ↓ EPPO | ↓ 290 |
+| EDMM → EPWW |  |
+| --- | --- |
+| ↓ EPPO | ↓ 290 |
 
 ### KORUP
 
-| EPWW → EDMM |  | EDMM → EPWW |  |
-| --- | --- | --- | --- |
-| ↓ EDDE | ↓ 240 |  |  |
-| ↓ EDBM | ↓ 240 |  |  |
-| ↓ EDVE | ↓ 240 |  |  |
-| ↓ EDAC | ↓ 240 |  |  |
-| ↓ EDDP | ↓ 220 |  |  |
-| ↓ EDDC | ↓ 160 |  |  |
-| ↓ EDAB | ↓ 160 |  |  |
+| EPWW → EDMM |  |
+| --- | --- |
+| ↓ EDDE | ↓ 240 |
+| ↓ EDBM | ↓ 240 |
+| ↓ EDVE | ↓ 240 |
+| ↓ EDAC | ↓ 240 |
+| ↓ EDDP | ↓ 220 |
+| ↓ EDDC | ↓ 160 |
+| ↓ EDAB | ↓ 160 |
 
 ### LASIS
 
-| EPWW → EDMM |  | EDMM → EPWW |  |
-| --- | --- | --- | --- |
-|  |  | ↓ EPPO | ↓ 290 |
-|  |  | ↑ EDDP | ↑ 310 |
+| EDMM → EPWW |  |
+| --- | --- |
+| ↓ EPPO | ↓ 290 |
+| ↑ EDDP | ↑ 310 |
 
 ### NAROX
 
-| EPWW → EDMM |  | EDMM → EPWW |  |
-| --- | --- | --- | --- |
-| ↑ EPWR | ↑ 280 |  |  |
+| EPWW → EDMM |  |
+| --- | --- |
+| ↑ EPWR | ↑ 280 |
 
 **Tactical directs:**
 
@@ -195,17 +195,17 @@ T/TRN – Turn, D/DES – Descent, C/CLB – Climb
 
 ### RASAN
 
-| EPWW → LKAA |  | LKAA → EPWW |  |
-| --- | --- | --- | --- |
-| ↑ EPPO | ↑ 340 |  |  |
-| ↓ EDDN | ↓ 340 |  |  |
-| ↓ EDDM | ↓ 340 |  |  |
-| ↓ LKCS | ↓ 300 |  |  |
-| ↓ LKxx | ↓ 280 |  |  |
-| ↓ LKPR | ↓ 220,B260 |  |  |
-| ↓ LKKB | ↓ 220,B260 |  |  |
-| ↓ LKVO | ↓ 220,B260 |  |  |
-| ↓ EDDC | ↓ 220,B260 |  |  |
+| EPWW → LKAA |  |
+| --- | --- |
+| ↑ EPPO | ↑ 340 |
+| ↓ EDDN | ↓ 340 |
+| ↓ EDDM | ↓ 340 |
+| ↓ LKCS | ↓ 300 |
+| ↓ LKxx | ↓ 280 |
+| ↓ LKPR | ↓ 220,B260 |
+| ↓ LKKB | ↓ 220,B260 |
+| ↓ LKVO | ↓ 220,B260 |
+| ↓ EDDC | ↓ 220,B260 |
 
 ### TOMTI
 
@@ -223,40 +223,40 @@ T/TRN – Turn, D/DES – Descent, C/CLB – Climb
 
 ### LAGAR
 
-| EPWW → LKAA |  | LKAA → EPWW |  |
-| --- | --- | --- | --- |
-|  |  | ↑ LKKV | ↑ 310 |
-|  |  | ↑ LKPR | ↑ 290,A270 |
-|  |  | ↑ LKKB | ↑ 290,A270 |
-|  |  | ↑ LKVO | ↑ 290,A270 |
-|  |  | ↑ LKCS | ↑ 290,A270 |
-|  |  | ↓ EPPO | ↓ 310 |
-|  |  | ↓ EPWR | ↓ 190 |
+| LKAA → EPWW |  |
+| --- | --- |
+| ↑ LKKV | ↑ 310 |
+| ↑ LKPR | ↑ 290,A270 |
+| ↑ LKKB | ↑ 290,A270 |
+| ↑ LKVO | ↑ 290,A270 |
+| ↑ LKCS | ↑ 290,A270 |
+| ↓ EPPO | ↓ 310 |
+| ↓ EPWR | ↓ 190 |
 
 ### DESEN
 
-| EPWW → LKAA |  | LKAA → EPWW |  |
-| --- | --- | --- | --- |
-| ↑ EPWR | ↑ 270,A250 |  |  |
-| ↓ LKTB | ↓ 290 |  |  |
-| ↓ LKKU | ↓ 290 |  |  |
-| ↓ LKNA | ↓ 290 |  |  |
-| ↓ LOxx | ↓ 350 |  |  |
-| ↓ LZxx | ↓ 350 |  |  |
+| EPWW → LKAA |  |
+| --- | --- |
+| ↑ EPWR | ↑ 270,A250 |
+| ↓ LKTB | ↓ 290 |
+| ↓ LKKU | ↓ 290 |
+| ↓ LKNA | ↓ 290 |
+| ↓ LOxx | ↓ 350 |
+| ↓ LZxx | ↓ 350 |
 
 ### UTEVO
 
-| EPWW → LKAA |  | LKAA → EPWW |  |
-| --- | --- | --- | --- |
-| ↑ EPKK | ↑ 280 |  |  |
-| ↑ EPKT | ↑ 280 |  |  |
+| EPWW → LKAA |  |
+| --- | --- |
+| ↑ EPKK | ↑ 280 |
+| ↑ EPKT | ↑ 280 |
 
 ### ADADO
 
-| EPWW → LKAA |  | LKAA → EPWW |  |
-| --- | --- | --- | --- |
-| ↑ EPKK | ↑ 280 |  |  |
-| ↑ EPKT | ↑ 240,A200 |  |  |
+| EPWW → LKAA |  |
+| --- | --- |
+| ↑ EPKK | ↑ 280 |
+| ↑ EPKT | ↑ 240,A200 |
 
 ### REGLI
 
@@ -293,23 +293,23 @@ T/TRN – Turn, D/DES – Descent, C/CLB – Climb
 
 ### TUSIN
 
-| EPWW → LKAA |  | LKAA → EPWW |  |
-| --- | --- | --- | --- |
-| ↑ EPKK | ↑ 240,A200 |  |  |
-| ↑ EPKT | ↑ 240,A200 |  |  |
-| ↓ LOxx | ↓ 340 |  |  |
-| ↓ LZxx | ↓ 340 |  |  |
-| ↓ LKMT | ↓ 280 |  |  |
-| ↓ LKPD | ↓ 280 |  |  |
-| ↓ LKCV | ↓ 280 |  |  |
-| ↓ LKMT | ↓ 120 |  |  |
+| EPWW → LKAA |  |
+| --- | --- |
+| ↑ EPKK | ↑ 240,A200 |
+| ↑ EPKT | ↑ 240,A200 |
+| ↓ LOxx | ↓ 340 |
+| ↓ LZxx | ↓ 340 |
+| ↓ LKMT | ↓ 280 |
+| ↓ LKPD | ↓ 280 |
+| ↓ LKCV | ↓ 280 |
+| ↓ LKMT | ↓ 120 |
 
 ### NETIR
 
-| EPWW → LKAA |  | LKAA → EPWW |  |
-| --- | --- | --- | --- |
-|  |  | ↑ LKMT | ↑ 110,A100 |
-|  |  | ↓ EPKK | ↓ 150,B190 |
+| LKAA → EPWW |  |
+| --- | --- |
+| ↑ LKMT | ↑ 110,A100 |
+| ↓ EPKK | ↓ 150,B190 |
 
 ## Bratislava FIR
 
@@ -514,12 +514,12 @@ T/TRN – Turn, D/DES – Descent, C/CLB – Climb
 
 ### LUGOL
 
-| EPWW → UKLL |  | UKLL → EPWW |  |
-| --- | --- | --- | --- |
-|  |  | ↓ EPWA | ↓ 360 |
-|  |  | ↓ EPMO | ↓ 360 |
-|  |  | ↓ EPKK | B340 |
-|  |  | ↓ EPKT | B340 |
+| UKLL → EPWW |  |
+| --- | --- |
+| ↓ EPWA | ↓ 360 |
+| ↓ EPMO | ↓ 360 |
+| ↓ EPKK | B340 |
+| ↓ EPKT | B340 |
 
 ### TEPNA
 
@@ -530,10 +530,10 @@ T/TRN – Turn, D/DES – Descent, C/CLB – Climb
 
 ### AMEDU
 
-| EPWW → UKLL |  | UKLL → EPWW |  |
-| --- | --- | --- | --- |
-|  |  | ↓ EPKK | B340 |
-|  |  | ↓ EPKT | B340 |
+| UKLL → EPWW |  |
+| --- | --- |
+| ↓ EPKK | B340 |
+| ↓ EPKT | B340 |
 
 ### DIBED
 
@@ -550,22 +550,22 @@ T/TRN – Turn, D/DES – Descent, C/CLB – Climb
 
 ### GOTIX
 
-| EPWW → UKLL |  | UKLL → EPWW |  |
+| UKLL → EPWW |  |
 | --- | --- | --- | --- |
-|  |  | ↑ UKLL | ↑ 160 |
-|  |  | ↓ EPLB | ↓ 300 |
-|  |  | ↓ EPRA | ↓ 300 |
-|  |  | ↓ EPWA | ↓ 360 |
-|  |  | ↓ EPMO | ↓ 360 |
-|  |  | ↓ EPKK | B340 |
-|  |  | ↓ EPKT | B340 |
+| ↑ UKLL | ↑ 160 |
+| ↓ EPLB | ↓ 300 |
+| ↓ EPRA | ↓ 300 |
+| ↓ EPWA | ↓ 360 |
+| ↓ EPMO | ↓ 360 |
+| ↓ EPKK | B340 |
+| ↓ EPKT | B340 |
 
 ### INFUX
 
-| EPWW → UKLL |  | UKLL → EPWW |  |
-| --- | --- | --- | --- |
-|  |  | ↓ EPKK | B340 |
-|  |  | ↓ EPKT | B340 |
+| UKLL → EPWW |  |
+| --- | --- |
+| ↓ EPKK | B340 |
+| ↓ EPKT | B340 |
 
 ### ROLKA
 
@@ -579,10 +579,10 @@ T/TRN – Turn, D/DES – Descent, C/CLB – Climb
 
 ### DIODA
 
-| EPWW → UKLL |  | UKLL → EPWW |  |
-| --- | --- | --- | --- |
-|  |  | ↓ EPKK | B340 |
-|  |  | ↓ EPKT | B340 |
+| UKLL → EPWW |  |
+| --- | --- |
+| ↓ EPKK | B340 |
+| ↓ EPKT | B340 |
 
 ### USTIL
 
