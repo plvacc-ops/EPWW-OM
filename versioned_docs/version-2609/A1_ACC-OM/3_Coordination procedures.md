@@ -8,15 +8,25 @@ slug: /coordination
 **Implemented coordination procedure symbols:**
 
 ↓ ICAO – Arriving traffic at the specified airport
+
 ↑ ICAO – Departing traffic from the specified airport
+
 ↓ xxx – Descending to the specified level
+
 ↑ xxx – Climbing to the specified level
+
 Axxx – At or above the specified level
+
 Bxxx – At or below the specified level
+
 RLSD – Released (Radar control release)
+
 T/TRN – Turn, D/DES – Descent, C/CLB – Climb
+
 ✆ – Direct transfer of communication to the specified controller
+
 ⇒ – Authorization to issue DCT (direct routing) for traffic operating to/from the specified airport
+
 
 ## Bremen FIR
 
@@ -690,5 +700,5 @@ T/TRN – Turn, D/DES – Descent, C/CLB – Climb
 
 | ADES | DIRECT | ADES | DIRECT | ADES | DIRECT |
 | --- | --- | --- | --- | --- | --- |
-| ESSA | ANFEV, NILUG | ESKN | ANFEV, PELUP | ENGM | XENTA, KSD |
-| ESSB | ANFEV, INWIQ | ESGG | NILEN | ENTO | REPKU |
+| ESSA | ANFEV next NILUG | ESKN | ANFEV next PELUP | ENGM | XENTA next KSD |
+| ESSB | ANFEV next INWIQ | ESGG | NILEN | ENTO | REPKU |
