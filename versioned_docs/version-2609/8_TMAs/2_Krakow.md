@@ -159,10 +159,10 @@ Departure instructions should be coordinated with APP controller by TWR Rzeszów
 ### APP Warszawa
 
 In cases where both APP Kraków and APP Warszawa controllers are logged in and there is no logged ACC Warszawa, the following routes are managed as part of the “bridge” procedure:
-- EPWA <-> EPKK,
-- EPWA <-> EPKT,
-- EPMO <-> EPKK,
-- EPMO <-> EPKT.
+- EPWA ⬌ EPKK,
+- EPWA ⬌ EPKT,
+- EPMO ⬌ EPKK,
+- EPMO ⬌ EPKT.
 
 Aircraft remain in communication with the selected APP controller and are then directly handed over to the next APP controller halfway between the sectors of the TMA.
 
