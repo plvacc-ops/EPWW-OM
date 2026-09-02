@@ -96,7 +96,7 @@ these sectors.
 
 ## EPWW_DTC_CTR
 
-![DCT](/assets/DCT.jpg)
+![DTC](/assets/DTC.jpg)
 
 **Frequency:** 125.340 MHz
 
