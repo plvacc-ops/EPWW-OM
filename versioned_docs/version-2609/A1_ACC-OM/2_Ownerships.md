@@ -208,8 +208,8 @@ these sectors. EPWW_TCJ_CTR is not superior position in J sector.
 
 **Description:** Covers TCJRE sectors in all three levels: LOW, MID, HIGH.
 
-:::tip
-NOTE: detailed sector ownerships should be based on below stated precedence rules and above stated website.
+:::note
+Detailed sector ownerships should be based on below stated precedence rules and above stated website.
 :::
 
 # Sector ownership precendence rule
