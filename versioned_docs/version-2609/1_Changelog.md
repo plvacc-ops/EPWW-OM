@@ -6,4 +6,4 @@ slug: /changelog
 
 | Change number | Change description | Changed by | Date |
 |---------------|--------------------|------------|------|
-|2607/1         |Initial release on web|Karol - ACCPL1|09.07.2026|
+|2609/1         |Initial release on web|Karol - ACCPL1; Mateusz - ACCPL30|03.09.2026|
