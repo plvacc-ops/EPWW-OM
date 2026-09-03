@@ -51,6 +51,11 @@ Initial climb in EPKK is 6000 ft and the value is published on the charts. Infor
 
 Kraków TWR controller does not require clearance from APP Kraków for takeoff permission (the “departure release” is not required).
 
+
+Visual approaches are prohibited at the aerodrome between 2100-0500 (2000-0400) UTC*.
+
+*times indicated in parentheses refer to the central european summer time.
+
 ### Datalink clearance
 
 In addition to clearances issued via radio, ATS has an option to issue ATC clearance via Dalatink Departure Clearance (DCL).
@@ -73,6 +78,10 @@ De-icing for code letter A, B and C ACFT is designated on stands 22 and 26-30. F
 |-|-|-|
 |T, S|36 m|NIL|
 |Z4, Z5, Z6|52 m|NIL|
+
+Between 2100-0500 (2000-0400) UTC* engine tests are completely prohibited at the aerodrome.
+
+*times indicated in parentheses refer to the central european summer time.
 
 ### Aircraft DE-ICING
 

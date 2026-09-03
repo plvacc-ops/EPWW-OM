@@ -51,6 +51,10 @@ Initial climb in EPMO is 4000 ft and the value is published on the charts. Infor
 
 Modlin TWR controller does require clearance from APP Warszawa for takeoff permission (the “departure release” is required), unless APP controller decides otherwise.
 
+Due to the potential infringement of the ILS critical area by aircraft taxiing on TWY E, in particular in the vicinity of the ILS GP/DME installation, the **RNP RWY 08** approach is **preffered** as the primary approach procedure for RWY 08 at EPMO.
+
+The ILS CAT I RWY 08 approach may be used in unusual or emergency situations, or upon prior coordination.
+
 ### Datalink clearance
 
 In addition to clearances issued via radio, ATS has an option to issue ATC clearance via Dalatink Departure Clearance (DCL).
