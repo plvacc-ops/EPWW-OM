@@ -37,6 +37,7 @@ This document is edited and updated by the Polish VACC Board. The main responsib
 :::tip
 
 Check Polish VACC Board structure 
+
 [Click here](https://plvacc.pl/vacc/staff)
 
 :::
