@@ -14,7 +14,7 @@ slug: /epwa
 |-|-|-|
 |52° 09' 57'' N 020° 58' 02'’ E|4.3 NM south-west of city centre|362 ft|
 
-Aerodrome category for firefighting: **CAT 9 ICAO**
+Aerodrome category for firefighting: CAT 9 ICAO
 
 ## Runway characteristics
 

@@ -14,7 +14,7 @@ slug: /eppo
 |-|-|-|
 |52° 25' 16'' N 016° 49' 35'’ E|2.7 NM east from city centre|309 ft|
 
-Aerodrome category for firefighting: 
+Aerodrome category for firefighting: CAT 7 ICAO
 
 ## Runway characteristics
 

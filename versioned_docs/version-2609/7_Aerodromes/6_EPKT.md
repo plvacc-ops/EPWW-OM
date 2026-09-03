@@ -14,7 +14,7 @@ slug: /epkt
 |-|-|-|
 |50° 28' 27'' N 019° 04' 48'’ E|24.2 NM from Katowice city|1008 ft|
 
-Aerodrome category for firefighting: 
+Aerodrome category for firefighting: CAT 8 ICAO
 
 ## Runway characteristics
 
