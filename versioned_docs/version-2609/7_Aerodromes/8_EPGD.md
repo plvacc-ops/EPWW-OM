@@ -93,6 +93,9 @@ TWY R is mainly used to serve aircraft stands 8-11. However, it can be also used
 
 Because simulating FOLLOW ME on VATSIM is not permitted, when issuing clearance requring FOLLOW ME assistance, phrase “taxi into stand with own discretion” is mandatory.
 
+Stands: 5-13, 20-28, 31, 34, 37 - push-back procedure is applicable.
+Stands: 5-13, 20-28  - the turning of aircraft on its own thrust is prohibited.
+
 ### Ground Traffic Surveillance
 
 Gdansk Airport is equipped with a ground traffic surveillance system using mode S.
