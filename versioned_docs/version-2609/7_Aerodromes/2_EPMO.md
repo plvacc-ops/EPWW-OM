@@ -66,9 +66,7 @@ If the taxi distance between the parking stand and holding position is short, it
 
 ### Aircraft DE-ICING
 
-There are no specified stands or aprons for de-icing at EPMO.
-
-De-icing is performed on the original stand of the aircraft, with use of adequate ground handling force.
+De-icing is performed on ACFT STD 11 or 12.
 
 ### VFR traffic
 
