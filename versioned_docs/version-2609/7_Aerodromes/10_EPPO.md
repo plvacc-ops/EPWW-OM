@@ -14,7 +14,7 @@ slug: /eppo
 |-|-|-|
 |52° 25' 16'' N 016° 49' 35'’ E|2.7 NM east from city centre|309 ft|
 
-Aerodrome category for firefighting: 
+Aerodrome category for firefighting: CAT 7 ICAO
 
 ## Runway characteristics
 
@@ -52,6 +52,10 @@ The Aerodrome Controller provides information about the initial climb, which is 
 Poznań TWR controller does not require clearance from APP Poznań for takeoff permission (the “departure release” is not required).
 
 Unless otherwise instructed by the TWR, aircrews of all departing aircraft shall as soon as possible after departure contact POZNAŃ APP on frequency 128.925 MHz.
+
+It is not recommended to perform take-offs from RWY 10 between 2100-0500 (2000-0400) UTC*
+
+*times indicated in parentheses refer to the central european summer time.
 
 ### Datalink clearance
 
