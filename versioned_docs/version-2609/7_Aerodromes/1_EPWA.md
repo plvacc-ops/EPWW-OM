@@ -131,6 +131,12 @@ Entry to stands on Apron 5A, 5B and 7A should be performed from TWY M, facing to
 
 Alternate stands on Apron 7A and Apron 7B are limited to category C aircraft.
 
+Taxiing on TWY E2 to TWY E4 when an aircraft with a wingspan of 36 m or greater is holding on TWY E3 is not possible.
+
+TWY E3 not available for aircraft and vehicles awaiting before RWY 11/29, whenever RWY 11 is being used for TKOF or LDG.
+Turn-offs onto TWY N3 are prohibited when TWY E3 is occupied by an aircraft or vehicle.
+
+
 Taxiways ZO (Zulu Orange) and ZB (Zulu Blue) allow simultaneous taxi in opposite directions of two aircraft with wingspan less than 36 meters.
 
 **During aircraft taxiing on TWY Z - TWY Z Orange and TWY Z Blue are closed for taxiing of other aircraft.**

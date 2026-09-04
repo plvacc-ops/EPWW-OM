@@ -55,6 +55,8 @@ Datalink clearances at the Bydgoszcz airport are **not available**.
 
 Civil passenger aircraft use stands next to the terminal: 1 – 5. Stands 3 – 5 require a pushback procedure.
 
+Power-back is possible for aircraft not greater than ATR 72.
+
 Stands 6 – 10 are designated for small cargo aircraft.
 Stands 11 – 25 are designated for small civil aircraft (Business Jets).
 Stands 26 – 29 and 30 – 35 are reserved for flight school aircraft.
@@ -80,17 +82,17 @@ LVP operations will be commenced when any of the RVR falls below 550 m and/or th
 
 Pilots are informed about LVP being in operation via ATIS or by radio, with use of following phraseology: *“Low visibility procedures in operation”*.
 
-LVP will be terminated when all of the RVR increase over 600 m and the cloud ceiling reaches 200 ft or more and a continuing improvement is anticipated.
+LVP will be terminated when all of the RVR increase over 550 m and the cloud ceiling reaches 200 ft or more and a continuing improvement is anticipated.
 
 |Phase|RVR|Cloud ceiling or VV|
 |-|-|-|
 |Preparation|≤ 800 m|≤ 300 ft (90m)|
 |LVP|< 550 m|< 200 ft (60m)|
-|Suspension|≥ 600 m|≥ 200 ft (60m)*|
+|Suspension|≥ 550 m|≥ 200 ft (60m)*|
 
 *continuing improvement is anticipated
 
-During LVPs, aircraft taxiing should be carried out along TWYs A, C1, D, E, F.
+TWY B, TWY C, TWY C1 shall **not** be used when LVP apply.
 
 Minimum RVR for departure is 400 m.
 

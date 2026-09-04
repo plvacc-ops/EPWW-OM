@@ -55,6 +55,14 @@ Due to the potential infringement of the ILS critical area by aircraft taxiing o
 
 The ILS CAT I RWY 08 approach may be used in unusual or emergency situations, or upon prior coordination.
 
+IFR omnidirectional departure procedures are determined for the purpose of case when an instrument departure via SID is impossible or undesirable. Expect ATC to use phraseology of *“IFR OMNIDIRECTIONAL DEPARTURE RUNWAY XX TURN LEFT/RIGHT HDG XXX”**, which is to be read back including *“IFR OMNIDIRECTIONAL”* part.
+
+Omnidirectional departures for the purpose of airport capacity enhancement are not permitted between 2100 and 0500 (2000 and 0400) UTC*.
+
+*times indicated in parentheses refer to the central european summer time.
+
+ATC clearance to execute an omnidirectional departure may be issued only upon initiative of the ATC and accepted by the pilot.
+
 ### Datalink clearance
 
 In addition to clearances issued via radio, ATS has an option to issue ATC clearance via Dalatink Departure Clearance (DCL).

@@ -58,3 +58,27 @@ Descent below 1500 ft is permitted only in close vicinity of the airport, during
 During high traffic load, aircraft in VFR flight may be instructed to hold on one of the published holdings:
 — on the east side of the aerodrome **NOVEMBER**,
 — on the west side of the aerodrome **SIERRA**.
+
+### Low Visibility Procedures (LVP)
+
+LVP operations will be commenced when any of the RVR falls below 550 m and/or the cloud ceiling falls below 200 ft. Pilots are informed about LVP being in operation via ATIS or by radio, with use of following phraseology: *“Low visibility procedures in operation.”* 
+LVP will be terminated when all RVRs increase to 550 m or above and ceiling rises above 200 ft and a continuing improvement is anticipated.
+
+|Phase|RVR|Cloud ceiling or VV|
+|-|-|-|
+|Preparation|≤ 800 m|≤ 300 ft (90m)|
+|LVP|< 550 m|< 200 ft (60m)|
+|Suspension|≥ 550 m|≥ 200 ft (60m)*|
+
+*continuing improvement is anticipated
+
+During LVP operations RWY 13/31, TWYs B, C, H, R, J are available.
+
+Minimum RVR for departure is 125 m.
+
+Minimums for landing depends on the approach type chosen by PIC. After vacating the runway, pilot is obliged to report it to TWR controller. 
+
+|Operation|RVR|
+|-|-|
+|Departure|≥ 125 m|
+|Arrival|NIL|

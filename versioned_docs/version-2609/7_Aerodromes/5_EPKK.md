@@ -71,8 +71,9 @@ ATC clearance can be issued by ATC via radio even after initiating the Departure
 
 Delivery controller may, after coordination with Ground controller, issue a startup clearance for aircraft on stands, which do not require push-back. 
 
-De-icing for code letter A, B and C ACFT is designated on stands 22 and 26-30. For code letter D and E ACFT de-ice is possible on TWY W1.
+TWY E not available for aircraft due to lack of edge lights and bad condition of surface.
 
+De-icing for code letter A, B and C ACFT is designated on stands 22 and 26-30. For code letter D and E ACFT de-ice is possible on TWY W1.
 
 |TWY|RESTRICTION|REMARKS|
 |-|-|-|
