@@ -79,6 +79,10 @@ De-icing for code letter A, B and C ACFT is designated on stands 22 and 26-30. F
 |T, S|36 m|NIL|
 |Z4, Z5, Z6|52 m|NIL|
 
+Engine tests are allowed only on TWY B.
+
+Stands 24L, 24, 24R, 25L, 25, 25R are available for skid-based helicopters.
+
 Between 2100-0500 (2000-0400) UTC* engine tests are completely prohibited at the aerodrome.
 
 *times indicated in parentheses refer to the central european summer time.
@@ -97,6 +101,10 @@ VFR traffic during transit through CTR Kraków or performing aerodrome circuits 
 During periods of high air traffic intensity, an aircraft operating under VFR may, if necessary, be instructed to hold according to the appropriate procedure over the following points:
 - point **KILO** – arrival from SIERRA. Holding on the south side of KILO.
 - point **ZULU** – arrival from INDIA or OSCAR. Holding on the north side of ZULU.
+
+Arrivals/departures to/from KRAKÓW/Balice aerodrome from the south are possible only via **SIERRA** and **KILO** points.
+
+Holding procedure over KILO point shall be performed to the west of the point, without crossing the motorway running east of the KILO point.
 
 At EPKK radar service is provided for airborne traffic. Traffic is controlled according to PANS-ATM 4444 Chapter 8
 
