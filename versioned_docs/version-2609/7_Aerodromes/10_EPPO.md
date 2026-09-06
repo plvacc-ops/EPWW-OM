@@ -87,10 +87,15 @@ Stands **40-42** are **remote stands**.
 Stands on **APRON 1** and **APRON 3 NORTH** are used for **General Aviation**, mainly for flight
 schools.
 
-Due to their wingspan and length, aircraft such as the **B747 and B777** do not fit in standard parking stands. Therefore, a special taxiing procedure has been developed for this type of aircraft, which proceeds as follows:
-The aircraft under the terminal should be guided via **TWY B**, then turned right onto **TWY G**.
-The next step is to pass through **stand 20** and make a **90° turn** so that the aircraft is **parallel to
-TWY G**. The aircraft stops at **stand 17**. In this case, **stands 17-20** remain **out of service**.
+When using stands 2-20, aircraft are subject to push-back procedure.
+
+Push-back procedure does not apply to stands 1, 2A, 3A, 3B, 4A, 4B, 5A, 5B for code A aeroplanes and stands 1A, 1B, 40-42, 40A-42A.
+
+The RWY and the following TWYs A, B, D1, D2 (between TWY S and THR RWY 10), G, S are adapted for code E and F aeroplanes.
+
+Code E aeroplanes shall park on stands 17L, 18R or 20L or (if push-back procedure is not applicable) perpendicular to stands 14-16 or 17-20.
+
+Code F aeroplanes shall park on APN 1 stands 18R or 20L or (if push-back procedure is not applicable) perpendicular to stands 17-20.
 
 |TWY|RESTRICTION|REMARKS|
 |-|-|-|
@@ -136,10 +141,12 @@ LVP will be terminated when all of the RVR increase over 600 m and the cloud cei
 |-|-|-|
 |Preparation|≤ 800 m|≤ 300 ft (90m)|
 |LVP|< 550 m|< 200 ft (60m)|
-|Suspension|≥ 600 m|≥ 200 ft (60m)*|
+|Suspension|≥ 550 m|≥ 200 ft (60m)*|
 
 *continuing improvement is anticipated
 
 During LVP number of aircraft remaining simultaneously in the maneuvering area within RWY and TWY area between **CAT II stop bars** at **TWY B, H1, G and CAT I/CAT II stop bar at TWY N1** is limited to **one**.
+
+During LVP code F ACFT operations are prohibited.
 
 Minimum **RVR** for **departure** is **125 m**.
