@@ -214,6 +214,13 @@ phraseology: *“Low visibility procedures in operation.”*
 
 *continuing improvement is anticipated
 
+:::caution
+In accordance with NOTAM A2490/26, effective from **28 Sep 2026** to **30 Dec 2026**:
+- LVP operations will be commenced when any of the RVR TDZ falls below 800 m and/or RVR falls below 550 m and/or the cloud ceiling falls to or below 300 ft.
+- LVP will be terminated when RVR TDZ ARR RWY increase to 800 m or more and/or all of the RVR increase to 550 m or more and the cloud ceiling reaches 300 ft or more and a continuing improvement is anticipated.
+:::
+
+
 During LVP some taxiways cannot be used by arriving traffic:
 
 |RWY|AVAIL TWY|NOT-AVAIL TWY|

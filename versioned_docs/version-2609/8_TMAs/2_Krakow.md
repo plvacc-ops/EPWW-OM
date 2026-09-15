@@ -94,7 +94,7 @@ The tasks of AKKE are taken over by AKK controller. Cooperation between AKK and 
 
 ### Three-sector configuration: AKK, AKKE, AKKK/AKKT
 
-The missing AKKK/AKKT tasks are taken over by AKK controller.
+The missing AKKK/AKKT tasks are taken over according to runway in use. For RWY 25 and 26, AKKK/AKKT tasks are taken over by AKKE controller. For RWY 07 and 08, AKKK/AKKT tasks are taken over by AKK controller.
 
 ### Two-sector: AKK, AKKE
 
