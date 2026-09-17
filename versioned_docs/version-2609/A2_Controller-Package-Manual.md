@@ -1,6 +1,6 @@
 ---
 sidebar_position: 14
-sidebar_label: 'PLvACC Controller Pack - EuroScope AeroGNG Sector Manual'
+sidebar_label: 'Appendix 2: PLvACC Controller Pack - EuroScope AeroGNG Sector Manual'
 slug: /controller_pack
 ---
 
