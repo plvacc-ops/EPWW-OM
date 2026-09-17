@@ -12,7 +12,7 @@ slug: /controller_pack
 |1||Initial release|Jan ACCPL23, Karol R.|02.10.2025|
 |2||Added GRP and TopSky manual, updated lists description, editorial changes|Karol ACCPL21, Jan ACCPL23, Bartosz ACCPL15|04.11.2025|
 |2.1||COR update: list functionality|Karol ACCPL21|06.11.2025|
-|3||Initial release on web and content verification|Mateusz ACCPL30||
+.|3||Initial release on web and content verification|Mateusz ACCPL30|17.09.2026|
 
 ## Installation
 
