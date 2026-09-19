@@ -267,7 +267,11 @@ Clearances for aircraft departing from Łódź (EPLL) airport towards the TMA Wa
 At the request of TWR Łódź, APP Warszawa can provide air traffic control services for aircraft departing from and arriving at EPLL in the delegated airspace segment (CTA 03).
 
 :::info 
-CTA03 is a temporary delegation, meaning that it is up to TWR Łódź to decide whether this airspace is delegated to APP Warszawa or not.
+CTA 03 is permanently delegated to APP Warszawa when TWR Łódź controller is **offline**, and may be temporarily delegated to APP Warszawa when TWR Łódź controller is **online**.
+
+When TWR Łódź controller is **online**, delegation of the remaining TMA Łódź airspace to APP Warszawa is subject to coordination between TWR Łódź and APP Warszawa.
+
+Therefore, the remaining TMA Łódź airspace may only be delegated to APP Warszawa for radar service above altitude **6000 ft**, when the TWR Łódź controller is **online**.
 :::
 
 The transfer of control should occur at the TMA boundary, both from TWR Łódź to APP Warszawa and from APP Warszawa to TWR Łódź.
