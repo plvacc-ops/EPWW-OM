@@ -58,7 +58,7 @@ Visual approaches are prohibited at the aerodrome between 2100-0500 (2000-0400) 
 
 ### Datalink clearance
 
-In addition to clearances issued via radio, ATS has an option to issue ATC clearance via Dalatink Departure Clearance (DCL).
+In addition to clearances issued via radio, ATS has an option to issue ATC clearance via Datalink Departure Clearance (DCL).
 Departure Clearance Request (RCD) should be initiated:
 - no earlier than **30 minutes** prior to EOBT or CTOT (if CTOT is assigned), 
 - no later than **5 minutes** prior to EOBT or CTOT (if CTOT is assigned).

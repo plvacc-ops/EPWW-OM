@@ -80,7 +80,7 @@ Departures and arrivals of helicopters can be performed from intersection of tax
 
 ### Datalink clearance
 
-In addition to clearances issued via radio, ATS has an option to issue ATC clearance via Dalatink Departure Clearance (DCL).
+In addition to clearances issued via radio, ATS has an option to issue ATC clearance via Datalink Departure Clearance (DCL).
 Departure Clearance Request (RCD) should be initiated: no earlier than **30 minutes** prior to EOBT or CTOT (if CTOT is assigned).
 
 ### Minimum runway occupancy time
