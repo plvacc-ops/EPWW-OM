@@ -80,7 +80,7 @@ Departures and arrivals of helicopters can be performed from intersection of tax
 
 ### Datalink clearance
 
-In addition to clearances issued via radio, ATS has an option to issue ATC clearance via Dalatink Departure Clearance (DCL).
+In addition to clearances issued via radio, ATS has an option to issue ATC clearance via Datalink Departure Clearance (DCL).
 Departure Clearance Request (RCD) should be initiated: no earlier than **30 minutes** prior to EOBT or CTOT (if CTOT is assigned).
 
 ### Minimum runway occupancy time
@@ -111,6 +111,8 @@ Pilots unable to accept the reduced take-off runs from the assigned or above men
 
 Ground movement instructions are issued by OKĘCIE GROUND, frequency 121.905 MHz.
 
+Power-back operations are allowed at all ACFT stands excluding stands 1-11 and 13-25 (APN 3).
+
 Delivery controller may, after coordination with Ground controller, issue a startup clearance for aircraft not requiring push-back, General Aviation traffic and for traffic on stands, which donot require push-back:
 - 31 - 42,
 - 71 - 74,
@@ -131,16 +133,33 @@ Entry to stands on Apron 5A, 5B and 7A should be performed from TWY M, facing to
 
 Alternate stands on Apron 7A and Apron 7B are limited to category C aircraft.
 
+|STAND NO|RESTRICTION|
+|-|-|
+|1|26 m|
+|2-8|36 m|
+|55L, 55R, 56-59|36 m|
+|3A, 5A, 7A|61 m|
+|55|65 m|
+
+When stand 3A is used, STD 3 and STD 4 are not available.
+
+When stand 5A is used, STD 5 and 6 are not available.
+
+When stand 7A is used, STD 7 and 8 are not available.
+
 Taxiways ZO (Zulu Orange) and ZB (Zulu Blue) allow simultaneous taxi in opposite directions of two aircraft with wingspan less than 36 meters.
+
+Taxiway UO (Uniform Orange) allow taxi into stands 3A, 5A and 7A for ACFT with wingspan up to 61 m.
 
 **During aircraft taxiing on TWY Z - TWY Z Orange and TWY Z Blue are closed for taxiing of other aircraft.**
 
 |TWY|RESTRICTION|REMARKS|
 |-|-|-|
-|A2-A8, E1, E3-E4, L, M1-M3, O2, U1, Z1-Z2|65 m|NIL|
-|E2|52 m|FOLLOW ME car required for aircraft with wingspan above 52 m|
+|A2-A8, E1-E4, J, L, M1-M3, O2, U1, Z1-Z2, LINK3, LINK4|65 m|NIL|
+|UO|61 m|NIL|
+|E2 between TWY E1 and TWY R|52 m|FOLLOW ME car required for aircraft with wingspan above 52 m|
 |ZO and ZB|36 m|used for simultaneous taxi in opposite directions|
-|A0-A1, G, H2, U2-U3, V, W, Z3-Z5|36 m|NIL|
+|A0-A1, G, H2, U2-U3, V, W, Z3-Z5, P|36 m|NIL|
 
 ### A380-800, AN124-100, B747-8, C5B Galaxy operations:
 
@@ -172,7 +191,7 @@ The transponder of a landing aircraft shall be turned on until the aircraft stop
 
 The de-icing time shall not be taken into consideration when the TOBT is defined. They are, however, considered in the TSAT calculation based on the request for de-icing. Due to the influence of de-icing on sequencing, it is highly recommended to request de-icing before the TSAT is issued (40 minutes before TOBT).
 
-De-icing of ACFT allowed only on aprons 7A, 10 and 13.
+De-icing of ACFT allowed only on aprons 7A, 10 (stands 55L, 55, 55R) and 13.
 
 Report the necessity for de-icing when requesting ATC clearance to OKĘCIE DELIVERY – FREQ 121.605 MHz.
 
@@ -208,6 +227,12 @@ phraseology: *“Low visibility procedures in operation.”*
 
 *continuing improvement is anticipated
 
+:::caution
+In accordance with NOTAM A2490/26, effective from **28 Sep 2026** to **30 Dec 2026**:
+- LVP operations will be commenced when any of the RVR TDZ falls below 800 m and/or RVR falls below 550 m and/or the cloud ceiling falls to or below 300 ft.
+- LVP will be terminated when RVR TDZ ARR RWY increase to 800 m or more and/or all of the RVR increase to 550 m or more and the cloud ceiling reaches 300 ft or more and a continuing improvement is anticipated.
+:::
+
 During LVP some taxiways cannot be used by arriving traffic:
 
 |RWY|AVAIL TWY|NOT-AVAIL TWY|
@@ -218,5 +243,10 @@ During LVP some taxiways cannot be used by arriving traffic:
 During LVP **TWY Z Orange** and **TWY Z Blue** may be used with **RVR above 300 m**.
 
 During LVP take-offs and landings are available on all RWY 11/29 and RWY 15/33 directions.
+
+:::caution
+In accordance with NOTAM A2863/26, effective from **01 Oct 2026** to **24 Oct 2026**:
+During LVP procedure take-off from RWY 15 is prohibited.
+:::
 
 Take-offs are prohibited if any of the RVR values is less than 125 m.

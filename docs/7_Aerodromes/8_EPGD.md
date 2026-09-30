@@ -56,7 +56,7 @@ Gdańsk TWR controller does not require clearance from APP Gdańsk for takeoff p
 
 ### Datalink clearance
 
-In addition to clearances issued via radio, ATS has an option to issue ATC clearance via Dalatink Departure Clearance (DCL).
+In addition to clearances issued via radio, ATS has an option to issue ATC clearance via Datalink Departure Clearance (DCL).
 Departure Clearance Request (RCD) should be initiated:
 - no earlier than **30 minutes** prior to EOBT or CTOT (if CTOT is assigned), 
 - no later than **5 minutes** prior to EOBT or CTOT (if CTOT is assigned).
@@ -92,6 +92,9 @@ The crew should be given an instruction to, if possible, vacate runway via the r
 TWY R is mainly used to serve aircraft stands 8-11. However, it can be also used by aircraft with a wingspan not greater than 36 m for taxiing between TWY M and TWY L.
 
 Because simulating FOLLOW ME on VATSIM is not permitted, when issuing clearance requring FOLLOW ME assistance, phrase “taxi into stand with own discretion” is mandatory.
+
+Stands: 5-13, 20-28, 31, 34, 37 - push-back procedure is applicable.
+Stands: 5-13, 20-28  - the turning of aircraft on its own thrust is prohibited.
 
 ### Ground Traffic Surveillance
 

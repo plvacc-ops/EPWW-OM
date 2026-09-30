@@ -79,15 +79,21 @@ The standard (cruise) altitude for VFR traffic in the CTR EPLL is **1500 ft**.
 
 LVP operations will be commenced when any of the RVR falls below 550 m and/or the cloud ceiling falls below 200 ft. Pilots are informed about LVP being in operation via ATIS or by radio, with use of following phraseology: *“Low visibility procedures in operation.”*
 
-At EPLL aerodrome LVP procedures are applicable only to Low Visibility Take Off (LVTO). LVP will be terminated when all of the RVR increase over 600 m and the cloud ceiling reaches 200 ft or more and a continuing improvement is anticipated.
+At EPLL aerodrome LVP procedures are applicable only to Low Visibility Take Off (LVTO). LVP will be terminated when all of the RVR increase over 550 m and the cloud ceiling reaches 200 ft or more and a continuing improvement is anticipated.
 
 |Phase|RVR|Cloud ceiling or VV|
 |-|-|-|
 |Preparation|≤ 800 m|≤ 300 ft (90m)|
 |LVP|< 550 m|< 200 ft (60m)|
-|Suspension|≥ 600 m|≥ 200 ft (60m)*|
+|Suspension|≥ 550 m|≥ 200 ft (60m)*|
 
 *continuing improvement is anticipated
+
+During LVP operations:
+- of code E and F ACFT are prohibited,
+- take-offs, landings and movement of skid-based helicopters are prohibited,
+- RWY07/25 and TWYs A and C are available,
+- landing clearance must be issued no later than at 2 NM from THR.
 
 Minimum RVR for departure is 400 m.
 
