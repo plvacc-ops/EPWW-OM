@@ -1,0 +1,8 @@
+{
+  "label": "Aerodromes within vFIR Warszawa",
+  "position": 8,
+    "link": {
+    "type": "generated-index",
+    "description": "Local procedures for Polish aerodromes"
+  }
+}

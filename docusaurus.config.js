@@ -51,12 +51,17 @@ const config = {
         docs: {
           routeBasePath: 'docs',
                     // DODAJ LUB ZMIEŃ TE LINIE:
-          lastVersion: '2609', // Wersja 2609 będzie domyślnie wyświetlana
+          lastVersion: '2610', // Wersja 2609 będzie domyślnie wyświetlana
           
           versions: {
             '2609': {
               label: '2609',
               path: '2609', // Dostępne pod /docs/2609/ lub /docs/
+              banner: 'none', // Brak baneru dla stabilnej wersji
+            },
+            '2610': {
+              label: '2610',
+              path: '2610', // Dostępne pod /docs/2609/ lub /docs/
               banner: 'none', // Brak baneru dla stabilnej wersji
             },
             current: {
