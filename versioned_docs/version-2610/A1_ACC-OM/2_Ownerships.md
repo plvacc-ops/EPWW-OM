@@ -259,8 +259,8 @@ Detailed sector ownerships should be based on below stated precedence rules and 
 |4|EPWW_ALH_CTR|EPWW_E_FIR|EPWW_ALH_CTR|EPWW_ALH_CTR|EPWW_DTC_CTR|
 |5|EPWW_G_CTR|EPWW_ALH_CTR|EPWW_ALL_CTR|EPWW_ALL_CTR|EPWW_DBT_CTR|
 |6|EPWW_ALL_CTR|EPWW_J_CTR|-|-|EPWW_S_CTR|
-|7|-|EPWW_ALL_CTR|-|-|EPWW_ALL_CTR|
-|8|-|-|-|-|EPWW_ALH_CTR|
+|7|-|EPWW_ALL_CTR|-|-|EPWW_ALH_CTR|
+|8|-|-|-|-|EPWW_ALL_CTR|
 
 ## SECTOR HIGH
 
