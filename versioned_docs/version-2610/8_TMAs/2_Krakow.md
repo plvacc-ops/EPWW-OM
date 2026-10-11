@@ -50,7 +50,9 @@ In each of above stated configuration **AKRZ** position can be opened.
 
 **Kraków Director Sector [EPKK_KK_APP; callsign “Kraków Approach”]**, marked as AKKK, is responsible for final approach to Kraków airport.
 
-**Katowice Director Sector [EPKK_KT_APP; callsign “Kraków Approach”]**, marked as AKKT, is responsible for final approach to Katowice airport. Aircraft arriving at EPKK or EPKT should be handed over to the controller of the DIR KK or DIR KT sector with a speed of **220 IAS**. This value may be changed on the reasonable and explicit instruction of the relevant sector controller. Regardless of the runway in use, the APP KRK controller hands over aircraft to the DIR controller in the downwind position, descending to 5000 ft AMSL, while other aircraft descend to FL100.
+**Katowice Director Sector [EPKK_KT_APP; callsign “Kraków Approach”]**, marked as AKKT, is responsible for final approach to Katowice airport. 
+
+Aircraft arriving at EPKK or EPKT should be handed over to the AKKK or AKKT sector with a speed of **220 IAS**. This value may be changed on the reasonable and explicit instruction of the relevant sector controller. Regardless of the runway in use, APP KRK controller hands over aircraft to the DIR controller in the downwind position, descending to 5000 ft AMSL, while other aircraft descend to FL100.
 
 **Collaboration between APP and APP E for departures:**
 - aircraft departing from EPKT or EPKK (or performing a missed approach procedure) are handed over to the controller responsible for departures according to the boundaries of responsibility.
