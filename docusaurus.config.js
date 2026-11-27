@@ -51,7 +51,7 @@ const config = {
         docs: {
           routeBasePath: 'docs',
                     // DODAJ LUB ZMIEŃ TE LINIE:
-          lastVersion: '2610', // Wersja 2609 będzie domyślnie wyświetlana
+          lastVersion: '2612', // Wersja, która będzie domyślnie wyświetlana
           
           versions: {
             '2609': {
