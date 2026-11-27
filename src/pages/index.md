@@ -18,4 +18,5 @@ This document constitutes the updated version of all local procedures applicable
 
 - [AIRAC 2609/1](/docs/2609)
 - [AIRAC 2610/1](/docs/2610)
-- [AIRAC 2611/1 - next](/docs/next)
+- [AIRAC 2612/1](/docs/2612)
+- [AIRAC 2613/1 - next](/docs/next)
